@@ -27,7 +27,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
    [Debriefing]: <https://docs.google.com/document/d/1IuRI4fHCFRATMmQO1Z6QzNl4wT1pC3pXcvHmvvhR3tY/edit?usp=sharing>
    [Schriftelijk Advies]: <https://docs.google.com/document/d/1d1FRnc3u6G2QpPR-iMUr-SQG0rjgXp3qVVijkIZ6uMk/edit?usp=sharing>
    [doc/deel1/PvA.rtf]: <https://github.com/IcemanHHW/myband/blob/master/doc/deel1/PvA.rtf>
-   [doc/deel1/urenschatting.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/deel1/Urenschatting.md>
+   [doc/deel1/urenschatting.md]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel1/Urenschatting.md>
    [doc/deel1/planning.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/deel1/planning.md>
    [doc/deel1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
    [FO]: <https://github.com/IcemanHHW/doc/deel1/FO.md>
