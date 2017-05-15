@@ -23,7 +23,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 
    [readme.md]: <https://github.com/IcemanHHW/myband/blob/master/readme.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
-   [Debriefing]: <https://docs.google.com/document/u/0/>
+   [Debriefing]: <https://docs.google.com/document/d/1IuRI4fHCFRATMmQO1Z6QzNl4wT1pC3pXcvHmvvhR3tY/edit?usp=sharing>
    [doc/deel1/PvA.rtf]: <https://github.com/IcemanHHW/myband/blob/master/doc/deel1/PvA.rtf>
    [doc/deel1/urenschatting.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/deel1/Urenschatting.md>
    [doc/deel1/planning.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/deel1/planning.md>
