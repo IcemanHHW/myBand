@@ -1,6 +1,6 @@
 ## myBand
-www.mijnliveomgeving.com is een website van Maarten Kampmeijer waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+www.mijnliveomgeving.com is een website van Maarten Kampmeijer waar gebruikers kunnen checken of er nieuws is van One Piece bedoeld voor One Piece fans.
+De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/category/one-piece-news/> of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
 
 ### Uniek aan dit concept is: 
  * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
@@ -21,7 +21,7 @@ De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrenti
 | b1-k1-w2 FLowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
 | b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
 
-   [readme.md]: <https://github.com/JouwGithubNaam/myband/blob/master/readme.md>
+   [readme.md]: <https://github.com/IcemanHHW/myband/blob/master/readme.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
    [Debriefing]: <https://docs.google.com/document/u/0/>
    [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
