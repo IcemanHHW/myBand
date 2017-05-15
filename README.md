@@ -1,6 +1,6 @@
 ## myBand
 www.mijnliveomgeving.com is een website van Maarten Kampmeijer waar gebruikers kunnen checken of er nieuws is van One Piece bedoeld voor One Piece fans.
-De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/category/one-piece-news/> of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of <https://opforum.net/one-piece-news/> maar toch anders omdat (..uniek aspect..)
 
 ### Uniek aan dit concept is: 
  * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
@@ -22,14 +22,14 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/categ
 | b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
 
    [readme.md]: <https://github.com/IcemanHHW/myband/blob/master/readme.md>
-   [Leidraad_uitgangspunt.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
+   [Leidraad_uitgangspunt.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
    [Debriefing]: <https://docs.google.com/document/u/0/>
-   [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
-   [doc/1/urenschatting.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
-   [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
+   [doc/1/PvA.rtf]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/1/PvA.rtf>
+   [doc/1/urenschatting.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/1/Urenschatting.md>
+   [doc/1/planning.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/1/planning.md>
    [doc/1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
-   [FO]: <https://github.com/jouwgithub/doc/1/FO.md>
-   [Flow]: <https://github.com/jouwgithub/doc/1/flow.svg>
+   [FO]: <https://github.com/IcemanHHW/doc/1/FO.md>
+   [Flow]: <https://github.com/IcemanHHW/doc/1/flow.svg>
    [axShare]: <http://w2d1bw.axshare.com/>
 
 #### Milestones Fase 2
