@@ -12,8 +12,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 | ------ |  ------ | ------ | ------ |
 | readme                         | DONE |  [readme.md]            | *MarkDown op github |
 | b1-k1-w1 debriefing            | DONE | [Debriefing]            | Google Doc Comment enabled |
-| b1-k1-w1 schriftelijk advies   | DONE | [Schriftelijk Advies]   | Google Doc Comment enabled |
-| b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | *Markdown |
+| b1-k1-w1 schriftelijk advies   | DONE | [Schriftelijk Advies]   | Rich Text Format |
 | b1-k1-w2 Urenschatting         | TODO | [doc/deel1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | TODO | [doc/deel1/planning.md]     | *Markdown |
 | b1-k1-w2 Plan van aanpak       | TODO | [doc/deel1/PvA.rtf]         | Rich Text Format |
@@ -25,7 +24,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
    [readme.md]: <https://github.com/IcemanHHW/myband/blob/master/readme.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
    [Debriefing]: <https://docs.google.com/document/d/1IuRI4fHCFRATMmQO1Z6QzNl4wT1pC3pXcvHmvvhR3tY/edit?usp=sharing>
-   [Schriftelijk Advies]: <https://docs.google.com/document/d/1d1FRnc3u6G2QpPR-iMUr-SQG0rjgXp3qVVijkIZ6uMk/edit?usp=sharing>
+   [Schriftelijk Advies]: <https://github.com/IcemanHHW/myBand/edit/master/doc/deel1/schriftelijk_advies.rtf>
    [doc/deel1/PvA.rtf]: <https://github.com/IcemanHHW/myband/blob/master/doc/deel1/PvA.rtf>
    [doc/deel1/urenschatting.md]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel1/Urenschatting.md>
    [doc/deel1/planning.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/deel1/planning.md>
