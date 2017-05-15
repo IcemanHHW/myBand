@@ -24,12 +24,12 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
    [readme.md]: <https://github.com/IcemanHHW/myband/blob/master/readme.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
    [Debriefing]: <https://docs.google.com/document/u/0/>
-   [doc/1/PvA.rtf]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/1/PvA.rtf>
-   [doc/1/urenschatting.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/1/Urenschatting.md>
-   [doc/1/planning.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/1/planning.md>
-   [doc/1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
-   [FO]: <https://github.com/IcemanHHW/doc/1/FO.md>
-   [Flow]: <https://github.com/IcemanHHW/doc/1/flow.svg>
+   [doc/deel1/PvA.rtf]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/deel1/PvA.rtf>
+   [doc/deel1/urenschatting.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/deel1/Urenschatting.md>
+   [doc/deel1/planning.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/deel1/planning.md>
+   [doc/deel1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
+   [FO]: <https://github.com/IcemanHHW/doc/deel1/FO.md>
+   [Flow]: <https://github.com/IcemanHHW/doc/deel1/flow.svg>
    [axShare]: <http://w2d1bw.axshare.com/>
 
 #### Milestones Fase 2
