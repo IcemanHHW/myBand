@@ -14,8 +14,8 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 | b1-k1-w1 debriefing            | DONE | [Debriefing]            | Google Doc Comment enabled |
 | b1-k1-w1 schriftelijk advies   | DONE | [Schriftelijk Advies]   | Rich Text Format |
 | b1-k1-w2 Urenschatting         | TODO | [doc/deel1/urenschatting.md]| *Markdown |
-| b1-k1-w2 Planning              | TODO | [doc/deel1/planning.md]     | *Markdown |
-| b1-k1-w2 Plan van aanpak       | TODO | [doc/deel1/PvA.rtf]         | Rich Text Format |
+| b1-k1-w2 Planning              | DONE | [doc/deel1/planning.md]     | *Markdown |
+| b1-k1-w2 Plan van aanpak       | DONE | [doc/deel1/PvA.rtf]         | Rich Text Format |
 | b1-k1-w2 Sfeer impressie       | TODO | [doc/deel1/moodboard]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
 | b1-k1-w2 FLowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
