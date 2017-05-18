@@ -19,7 +19,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 | b1-k1-w2 Sfeer impressie       | TODO | [doc/deel1/moodboard]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
 | b1-k1-w2 FLowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
-| b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
+| b1-k1-w2 prototype             | TODO | [website]               | Website link |
 
    [readme.md]: <https://github.com/IcemanHHW/myband/blob/master/readme.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
@@ -31,7 +31,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
    [doc/deel1/moodboard]: <#>
    [FO]: <https://github.com/IcemanHHW/doc/deel1/FO.md>
    [Flow]: <https://github.com/IcemanHHW/doc/deel1/flow.svg>
-   [axShare]: <http://w2d1bw.axshare.com/>
+   [website]: <http://ma.kampmeijer.nl/mybandprototype/>
 
 #### Milestones Fase 2
 | Milestone  | Status | Link |
