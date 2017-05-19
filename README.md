@@ -16,10 +16,10 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 | b1-k1-w2 Urenschatting         | DONE | [doc/deel1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | DONE | [doc/deel1/planning.md]     | *Markdown |
 | b1-k1-w2 Plan van aanpak       | DONE | [doc/deel1/PvA.rtf]         | Rich Text Format |
-| b1-k1-w2 Sfeer impressie       | TODO | [doc/deel1/moodboard]       | PNG Image op deviantArt |
+| b1-k1-w2 Sfeer impressie       | DONE | [doc/deel1/moodboard]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
-| b1-k1-w2 FLowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
-| b1-k1-w2 prototype             | TODO | [website]               | Website link |
+| b1-k1-w2 FLowChart             | DONE | [Flow]                  | SVG exported by Draw.io |
+| b1-k1-w2 prototype             | DONE | [website]               | Website link |
 
    [readme.md]: <https://github.com/IcemanHHW/myband/blob/master/readme.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
@@ -28,7 +28,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
    [doc/deel1/PvA.rtf]: <https://github.com/IcemanHHW/myband/blob/master/doc/deel1/PvA.rtf>
    [doc/deel1/urenschatting.md]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel1/Urenschatting.md>
    [doc/deel1/planning.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/deel1/planning.md>
-   [doc/deel1/moodboard]: <#>
+   [doc/deel1/moodboard]: <http://icemanhhw.deviantart.com/art/Mood-board-MY-Band-681468476>
    [FO]: <https://github.com/IcemanHHW/doc/deel1/FO.md>
    [Flow]: <https://github.com/IcemanHHW/doc/deel1/flow.svg>
    [website]: <http://ma.kampmeijer.nl/mybandprototype/>
