@@ -32,7 +32,7 @@ Het is een groep met erg veel verschillen. Jong of oud, man of vrouw, opleiding.
 Deze doelgroep weet nog niet zeker wat ze er van vinden. Na het lezen van de site zullen die hopelijk de serie gaan kijken of lezen en wordt hun passie steeds groter. Met andere woorden, het maken van nieuwe fans.
 
 ## Functionaliteiten
-##### Content
+#### Content
 * **Home**. De hoofdpagina is het uithangbord van de site. Hierop zijn de nieuwsberichten te lezen.
 * **Agenda**. Op de agendapagina staan de datums waarop er een nieuwe aflevering of hoofdstuk te lezen is. Ook zijn de datums te vinden van releases van nieuwe merchendise( figures, cosplay, films,etc.).
 * **Contact**. Op de contactpagina staat contactinformatie en een "Over mezelf"
@@ -40,13 +40,37 @@ Deze doelgroep weet nog niet zeker wat ze er van vinden. Na het lezen van de sit
 * **Admin**. Op de adminpagina is er een basic CMS.
 * **Sidebar**. Op elke pagina,behalve de adminpagina, is er een sidebar waarin de OP afbeeldingen van de week staan.
 
-##### Interactief
-* **Zoekmachina**. De zoekmachine laat de resultaten per soort item zien.
+#### Interactief
+* **Zoekbalk**. De zoekbalk laat de resultaten per soort item zien.
 * **RSS feed**. Een rss-feed van de pagina. 
 * **Responsive**. De hele site zal responsive zijn zodat het op elk apparaat bekeken kan worden.
 
 
 ## Websitestructuur
+#### Bovenbalk
+De bovenbalk is altijd zichtbaar behalve als de gebruiker naar beneden scrollt. Hierin staan: 
+* Het logo
+* De naam van de site
+* De navigatiebalk (Home, Agenda, Contact, Juridisch)
+* De zoekbalk. Achter de zoekbalk staat een button genaamd "search". Als je daarop klikt kom je op de zoekresultatenpagina.
+
+#### Linkerkolom
+De linkerkolom bevat de content van de site.
+
+#### Rechterkolom
+De rechterkolom is de sidebar. Hier staan de afbeeldingen van de week.
+
+#### Onderbalk
+De onderbalk bevat de projectnaam en door wie het ontwikkelt is.
+
+## Bijlage 1. Flowchart website
+Link naar de flowchart:
+[Flowchart MY Band](https://github.com/IcemanHHW/myBand/blob/master/doc/deel1/Flowchart.svg)
+
+## Bijlage 2. Prototype website
+Link naar de prototype:
+[Prototype MY Band](http://ma.kampmeijer.nl/mybandprototype/)
+
 
 
 
