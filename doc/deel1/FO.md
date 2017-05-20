@@ -15,5 +15,16 @@
   Het moet werken als een overzichtssite wat doorlinkt naar de andere sites waarop het allemaal te lezen is. 
 
 ### Strategie
+  Om dit doel te realiseren, wordt de volgende strategie gebruikt. 
+    * De site zal in het Engels zijn zodat de site internationaal gebruikt kan worden.
+    * Omdat het alles in de community bedekt blijft de site relevant voor de doelgroep
+    * Genoeg updates van berichten zodat er altijd iets te lezen is.
+    
+## Doelgroep
+
+### Algemene informatie over website bezoekers
   
+
+    
+
 
