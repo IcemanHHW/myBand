@@ -1,10 +1,10 @@
 ## myBand
 www.mijnliveomgeving.com is een website van Maarten Kampmeijer waar gebruikers kunnen checken of er nieuws is van One Piece bedoeld voor One Piece fans.
-De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of <https://opforum.net/one-piece-news/> maar toch anders omdat (..uniek aspect..)
+De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of <https://opforum.net/one-piece-news/> maar toch anders omdat deze site alle onderdelen bedekt
 
 ### Uniek aan dit concept is: 
- * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
- * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
+ * Deze site bedekt alles van de community ipv een bepaald gedeelte
+ * Het is een overzichtssite waarop de berichten doorlinken naar de site waar het te lezen is.
 
 ---
 #### Milestones Fase 1
@@ -17,7 +17,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 | b1-k1-w2 Planning              | DONE | [doc/deel1/planning.md]     | *Markdown |
 | b1-k1-w2 Plan van aanpak       | DONE | [doc/deel1/PvA.rtf]         | Rich Text Format |
 | b1-k1-w2 Sfeer impressie       | DONE | [doc/deel1/moodboard]       | PNG Image op deviantArt |
-| b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
+| b1-k1-w2 Functioneel ontwerp   | DONE | [FO]                    | MarkDown op github |
 | b1-k1-w2 FLowChart             | DONE | [Flow]                  | SVG exported by Draw.io |
 | b1-k1-w2 prototype             | DONE | [website]               | Website link |
 
