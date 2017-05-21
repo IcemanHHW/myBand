@@ -12,6 +12,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 | ------ |  ------ | ------ | ------ |
 | readme                         | DONE |  [readme.md]            | *MarkDown op github |
 | b1-k1-w1 debriefing            | DONE | [Debriefing]            | Google Doc Comment enabled |
+| b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | *Markdown |
 | b1-k1-w1 schriftelijk advies   | DONE | [Schriftelijk Advies]   | Rich Text Format |
 | b1-k1-w2 Urenschatting         | DONE | [doc/deel1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | DONE | [doc/deel1/planning.md]     | *Markdown |
@@ -22,7 +23,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 | b1-k1-w2 prototype             | DONE | [website]               | Website link |
 
    [readme.md]: <https://github.com/IcemanHHW/myband/blob/master/readme.md>
-   [Leidraad_uitgangspunt.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
+   [Leidraad_uitgangspunt.md]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel1/uitgangspunt.md>
    [Debriefing]: <https://docs.google.com/document/d/1IuRI4fHCFRATMmQO1Z6QzNl4wT1pC3pXcvHmvvhR3tY/edit?usp=sharing>
    [Schriftelijk Advies]: <https://github.com/IcemanHHW/myBand/edit/master/doc/deel1/schriftelijk_advies.rtf>
    [doc/deel1/PvA.rtf]: <https://github.com/IcemanHHW/myband/blob/master/doc/deel1/PvA.rtf>
