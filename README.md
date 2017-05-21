@@ -12,7 +12,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 | ------ |  ------ | ------ | ------ |
 | readme                         | DONE |  [readme.md]            | *MarkDown op github |
 | b1-k1-w1 debriefing            | DONE | [Debriefing]            | Google Doc Comment enabled |
-| b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | *Markdown |
+| b1-k1-w1 bepaling uitgangspunt | DONE | [Leidraad_uitgangspunt.md] | *Markdown |
 | b1-k1-w1 schriftelijk advies   | DONE | [Schriftelijk Advies]   | Rich Text Format |
 | b1-k1-w2 Urenschatting         | DONE | [doc/deel1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | DONE | [doc/deel1/planning.md]     | *Markdown |
