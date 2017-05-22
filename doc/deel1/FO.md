@@ -28,6 +28,10 @@ Gebruikers een website gaan over het algemeen doelgericht te werk. Zij hebben ee
 De doelgroep van MY Band bestaat uit twee doelgroepen:
 1. De fans van One Piece. 
 Het is een groep met erg veel verschillen. Jong of oud, man of vrouw, opleiding. Het maakt niet uit wat hun achtergrond is, ze delen allemaal dezelfde passie en dat is One Piece.
+Bronnen:
+*<http://www.saiyanisland.com/2011/12/88-of-one-piece-fans-are-adults/>
+*<https://www.reddit.com/r/OnePiece/comments/yx31j/how_old_are_you_xpost_from_rnaruto/>
+*<https://www.reddit.com/r/OnePiece/comments/17c2xb/one_piece_fans_average_age/>
 2. Mensen die geïnteresseerd zijn en meer informatie willen over One Piece.
 Deze doelgroep weet nog niet zeker wat ze er van vinden. Na het lezen van de site zullen die hopelijk de serie gaan kijken of lezen en wordt hun passie steeds groter. Met andere woorden, het maken van nieuwe fans.
 
