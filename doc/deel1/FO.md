@@ -71,7 +71,9 @@ Link naar de flowchart:
 Link naar de prototype:
 [Prototype MY Band](http://ma.kampmeijer.nl/mybandprototype/)
 
-
+## Bijlage 3. Moodboard website
+Link naar het moodboard:
+[Moodboard MY Band](http://icemanhhw.deviantart.com/art/Mood-board-MY-Band-681468476)
 
 
 
