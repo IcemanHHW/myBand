@@ -1,5 +1,5 @@
 ## myBand
-www.mijnliveomgeving.com is een website van Maarten Kampmeijer waar gebruikers kunnen checken of er nieuws is van One Piece bedoeld voor One Piece fans.
+http://ma.kampmeijer.nl/myband/ is een website van Maarten Kampmeijer waar gebruikers kunnen checken of er nieuws is van One Piece bedoeld voor One Piece fans.
 De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of <https://opforum.net/one-piece-news/> maar toch anders omdat deze site alle onderdelen bedekt
 
 ### Uniek aan dit concept is: 
