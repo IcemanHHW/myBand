@@ -31,7 +31,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
    [doc/deel1/planning.md]: <https://github.com/IcemanHHW/MyBandStarter/blob/master/doc/deel1/planning.md>
    [doc/deel1/moodboard]: <http://icemanhhw.deviantart.com/art/Mood-board-MY-Band-681468476>
    [FO]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel1/FO.md>
-   [Flow]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel1/Flowchart%20myBand.svg>
+   [Flow]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel1/Flowchart.svg>
    [website]: <http://ma.kampmeijer.nl/mybandprototype/>
 
 #### Milestones Fase 2
