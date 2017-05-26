@@ -1,0 +1,36 @@
+body {
+  font-size: 70%;
+}
+
+img {
+  width: 75%;
+  height: 75%;
+}
+
+#headerimage,
+#headertekst {
+  display: inline-block;
+  vertical-align: bottom;
+  padding-left: 3em;
+}
+
+#headerimage {
+  padding-right: 1em;
+  width: 50%;
+  height: 50%;
+}
+
+nav {
+  ul {
+    li {
+      float: none;
+      width: 100%;
+      text-align: left;
+    }
+  }
+}
+
+form {
+  text-align: left;
+  padding-left: 1em;
+}
