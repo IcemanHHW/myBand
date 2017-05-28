@@ -1,13 +1,22 @@
 <div id="wrapper">
       <div id="content">
-        <h3>Disclaimer</h3>
-        <p>
-          Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. <br /> Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <br /> Donec quam felis, ultricies nec, pellentesque
-          eu, pretium quis, sem. Nulla consequat massa quis enim. <br /> Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, <br /> venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
-          Integer tincidunt. Cras dapibus. <br /> Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. <br />
-           Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. <br /> Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
-          Phasellus viverra nulla ut metus varius laoreet. <br /> Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
-        </p>
+        <article>
+          <h2>DISCLAIMER</h2>
+          <p class="thick">THIS SITE IS A SCHOOL PROJECT </p>
+          <p>
+            MY Band provides the <a href="http://ma.kampmeijer.nl/myband/">MY Band</a> Web site as a service to the public and Web site owners. <br />
+            MY Band is not responsible for, and expressly disclaims all liability for, damages of any kind arising out of use, <br />
+            reference to, or reliance on any information contained within the site. <br />
+            While the information contained within the site is periodically updated, no guarantee is given that the information <br />
+            provided in this Web site is correct, complete, and up-to-date. <br /> <br />
+            Although the MY Band Web site may include links providing direct access to other Internet resources, including Web sites, <br />
+            MY Band is not responsible for the accuracy or content of information contained in these sites. <br /> <br />
+            Links from MY Band to third-party sites do not constitute an endorsement by MY Band of the parties or <br />
+            their products and services. The appearance on the Web site of advertisements and product or service information <br />
+            does not constitute an endorsement by MY Band, and MY Band has not investigated the claims made by any advertiser. <br />
+            Product information is based solely on material received from suppliers.
+          </p>
+        </article>
       </div>
       <div id="sidebar">
         <h3>Pictures of the week:</h3>
