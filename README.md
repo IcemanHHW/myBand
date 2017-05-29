@@ -22,7 +22,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 | b1-k1-w2 FLowChart             | DONE | [Flow]                  | SVG exported by Draw.io |
 | b1-k1-w2 prototype             | DONE | [website]               | Website link |
 
-   [readme.md]: <https://github.com/IcemanHHW/myband/blob/master/readme.md>
+   [readme.md]: <https://github.com/IcemanHHW/myBand/blob/master/README.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel1/uitgangspunt.md>
    [Debriefing]: <https://docs.google.com/document/d/1IuRI4fHCFRATMmQO1Z6QzNl4wT1pC3pXcvHmvvhR3tY/edit?usp=sharing>
    [Schriftelijk Advies]: <https://github.com/IcemanHHW/myBand/edit/master/doc/deel1/schriftelijk_advies.rtf>
