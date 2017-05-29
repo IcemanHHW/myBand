@@ -37,7 +37,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 #### Milestones Fase 2
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| b1-k1-w3 Technisch Ontwerp |  TODO |  [doc/deel2/TO.rtf] |
+| b1-k1-w3 Technisch Ontwerp |  DONE |  [doc/deel2/TO.rtf] |
 | b1-k1-w3 ERD               |  DONE |  [doc/deel2/erd.svg] |
 | b1-k1-w4 Ontwikkelomgeving |  TODO |  [doc/deel2/oo.md]|
 | Link naar de live omgeving |  DONE | <http://ma.kampmeijer.nl/myband/>|
