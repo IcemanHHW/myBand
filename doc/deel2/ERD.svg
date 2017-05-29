@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1000px" height="1000px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="85" height="20" x="359" y="29" style="fill:red;stroke:black;"/>
+   <text width="85" height="20" x="364" y="43" style="fill:none;stroke:black;" font-family="Arial" font-size="16px"> mb_articles</text>
+   <rect width="85" height="20" x="359" y="49" style="fill:#0c0;stroke:black;"/>
+   <text width="85" height="20" x="364" y="63" style="fill:none;stroke:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="85" height="20" x="359" y="69" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="364" y="83" style="fill:none;stroke:black;" font-family="Arial" font-size="16px">date</text>
+   <rect width="85" height="20" x="359" y="89" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="364" y="103" style="fill:none;stroke:black;" font-family="Arial" font-size="16px">title</text>
+   <rect width="85" height="20" x="359" y="109" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="364" y="123" style="fill:none;stroke:black;" font-family="Arial" font-size="16px">headline</text>
+   <rect width="85" height="20" x="359" y="129" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="364" y="143" style="fill:none;stroke:black;" font-family="Arial" font-size="16px">content</text>
+   <rect width="85" height="20" x="359" y="149" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="364" y="163" style="fill:none;stroke:black;" font-family="Arial" font-size="16px">image</text>
+   <rect width="85" height="20" x="359" y="169" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="364" y="183" style="fill:none;stroke:black;" font-family="Arial" font-size="16px">alt</text>
+   <rect width="88" height="20" x="607" y="35" style="fill:red;stroke:black;"/>
+   <text width="88" height="20" x="612" y="49" style="fill:none;stroke:black;" font-family="Arial" font-size="16px"> mb_sidebar</text>
+   <rect width="88" height="20" x="607" y="55" style="fill:#0c0;stroke:black;"/>
+   <text width="88" height="20" x="612" y="69" style="fill:none;stroke:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="88" height="20" x="607" y="75" style="fill:none;stroke:black;"/>
+   <text width="88" height="20" x="612" y="89" style="fill:none;stroke:black;" font-family="Arial" font-size="16px">date</text>
+   <rect width="88" height="20" x="607" y="95" style="fill:none;stroke:black;"/>
+   <text width="88" height="20" x="612" y="109" style="fill:none;stroke:black;" font-family="Arial" font-size="16px">image</text>
+   <rect width="88" height="20" x="607" y="115" style="fill:none;stroke:black;"/>
+   <text width="88" height="20" x="612" y="129" style="fill:none;stroke:black;" font-family="Arial" font-size="16px">alt</text>
+</svg>
