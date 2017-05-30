@@ -3,7 +3,11 @@
 $result_list = array();
 
 
-$sql = "SELECT * FROM mb_articles";
+$sorttype = 'date';
+$order = 'DESC';
+
+$sql = "SELECT * FROM mb_articles
+        ORDER BY $sorttype $order";
 
 $result = $mysqli->query($sql);
 
