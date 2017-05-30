@@ -10,6 +10,11 @@
     </div>
     <div id="sidebar">
       <h3>Pictures of the week:</h3>
-      <img src="img/placeholder.png" alt="placeholder" />
+
+        {foreach from=$result_list2 item=image}
+          <img src="{$image.image}" alt="{$image.alt}" /> <br />
+        {/foreach}
+
+    </div>
     </div>
   </div>
