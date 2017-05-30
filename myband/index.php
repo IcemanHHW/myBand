@@ -25,12 +25,18 @@ switch ($action) {
         $templateParser->display('home.tpl');
         break;
     case 'agenda':
+        require_once 'model/getsidebar.php';
+        $templateParser->assign('result_list2',$result_list2);
         $templateParser->display('agenda.tpl');
-          break;
+        break;
     case 'contact':
+        require_once 'model/getsidebar.php';
+        $templateParser->assign('result_list2',$result_list2);
         $templateParser->display('contact.tpl');
         break;
     case 'legal':
+        require_once 'model/getsidebar.php';
+        $templateParser->assign('result_list2',$result_list2);
         $templateParser->display('legal.tpl');
         break;
 }
