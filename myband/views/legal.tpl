@@ -1,6 +1,5 @@
 <div id="wrapper">
       <div id="content">
-        <article>
           <h2>DISCLAIMER</h2>
           <p class="thick">THIS SITE IS A SCHOOL PROJECT </p>
           <p>
@@ -16,13 +15,12 @@
             does not constitute an endorsement by MY Band, and MY Band has not investigated the claims made by any advertiser. <br />
             Product information is based solely on material received from suppliers.
           </p>
-        </article>
       </div>
       <div id="sidebar">
         <h3>Pictures of the week:</h3>
 
           {foreach from=$result_list2 item=image}
-            <img src="{$image.image}" alt="{$image.alt}" /> <br />
+            <img class="grow" src="{$image.image}" alt="{$image.alt}" /> <br />
           {/foreach}
 
       </div>

@@ -1,5 +1,5 @@
-<div id="wrapper">
-    <div id="content">
+<div id="wrapper" >
+    <div id="articles">
 
 
         {foreach from=$result_list item=article}
@@ -8,8 +8,8 @@
                 <p>{$article.date}</p>
                 <p class="thick">{$article.headline}</p>
                 <content> {$article.content} </content> <br />
-                <img src="{$article.image}" alt="{$article.alt}" />
-
+                <img class="grow"  src="{$article.image}" alt="{$article.alt}" />
+                <br /><br />
             </article>
         {/foreach}
 
@@ -18,7 +18,7 @@
       <h3>Pictures of the week:</h3>
 
         {foreach from=$result_list2 item=image}
-          <img src="{$image.image}" alt="{$image.alt}" /> <br />
+          <img class="grow" src="{$image.image}" alt="{$image.alt}" /> <br />
         {/foreach}
 
     </div>

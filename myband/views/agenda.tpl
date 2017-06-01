@@ -12,7 +12,7 @@
       <h3>Pictures of the week:</h3>
 
         {foreach from=$result_list2 item=image}
-          <img src="{$image.image}" alt="{$image.alt}" /> <br />
+          <img class="grow" src="{$image.image}" alt="{$image.alt}" /> <br />
         {/foreach}
 
     </div>
