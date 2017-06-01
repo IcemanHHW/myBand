@@ -17,6 +17,7 @@ body {
   flex-direction: column;
 }
 
+/*pagina inhoud*/
 #wrapper {
   width: 90%;
   margin: 0 auto;
@@ -26,11 +27,47 @@ body {
   flex: 1 0 auto;
 }
 
-#content {
+
+#articles {
   width: 80%;
   float: left;
   box-sizing: border-box;
 }
+
+#content {
+  width: 80%;
+  float: left;
+  box-sizing: border-box;
+  padding-left: 1.5em;
+  a {
+    text-decoration: none;
+    position: relative;
+    color: blue;
+  }
+  a:hover {
+    color: $navKleur;
+  }
+  a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: $navKleur;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+a:hover:before {
+ visibility: visible;
+ -webkit-transform: scaleX(1);
+ transform: scaleX(1);
+}
+}
+
 
 p.thick {
   font-weight: bold;
@@ -41,6 +78,15 @@ p.thick {
   float: right;
   box-sizing: border-box;
 }
+
+article {
+  padding-left: 1.5em;
+  border-bottom: 1.5px solid #c2c2c2;
+}
+
+/*--------*/
+
+/*header & navigatie*/
 
 header {
   background-image: url("../img/header.jpg");
@@ -90,11 +136,95 @@ nav {
     display: block;
   }
 }
+/*--------*/
 
-article {
-  padding-left: 0.5em;
-  border-bottom: 1px solid #c2c2c2;
+/*image hover */
+.grow {
+  transition: 1.5s ease;
+  cursor: pointer;
 }
+.grow:hover{
+   transform: scale(1.05, 1.05);
+}
+/*--------*/
+
+/*modal image */
+#image {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#image:hover {opacity: 0.7;}
+
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.9);
+}
+
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 25%;
+    max-width: 700px;
+}
+
+#caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+.modal-content, #caption {
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)}
+    to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+    from {transform:scale(0)}
+    to {transform:scale(1)}
+}
+
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+/*--------*/
 
 footer {
   overflow: auto;
