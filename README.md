@@ -41,12 +41,12 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 | b1-k1-w3 ERD               |  DONE |  [doc/deel2/erd.svg] |
 | b1-k1-w4 Ontwikkelomgeving |  DONE |  [doc/deel2/oo.md]|
 | Link naar de live omgeving |  DONE | <http://ma.kampmeijer.nl/myband/>|
-| Implementatieplan          | TODO |  [doc/deel2/imp.rtf] |
+| Implementatieplan          | DONE |  [doc/deel2/imp.md] |
 
    [doc/deel2/TO.rtf]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel2/Technisch%20Ontwerp.rtf>
    [doc/deel2/erd.svg]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel2/ERD.svg>
    [doc/deel2/oo.md]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel2/oo.md>
-   [doc/deel2/imp.rtf]: <http://github.com/jouwgithub/doc/fase2/imp.rtf>
+   [doc/deel2/imp.md]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel2/imp.md>
    
 #### Milestones Fase 3
 | Milestone  | Status | Link |
