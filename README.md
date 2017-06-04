@@ -45,7 +45,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 
    [doc/deel2/TO.rtf]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel2/Technisch%20Ontwerp.rtf>
    [doc/deel2/erd.svg]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel2/ERD.svg>
-   [doc/deel22/oo.md]: <https://github.com/jouwgithub/doc/fase2/oo.md>
+   [doc/deel2/oo.md]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel2/oo.md>
    [doc/deel2/imp.rtf]: <http://github.com/jouwgithub/doc/fase2/imp.rtf>
    
 #### Milestones Fase 3
