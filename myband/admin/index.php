@@ -156,7 +156,7 @@
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <button type="submit" class="btn btn-primary">Save changes</button>
+        <button type="submit" name="submit" class="btn btn-primary">Save changes</button>
       </div>
     </form>
     </div>
@@ -171,7 +171,7 @@
     <?php
 
     require_once ('config.php');
-    (isset($_POST['submit'])) {
+    if(isset($_POST['submit'])) {
     $dbc = mysqli_connect(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_NAME);
     if (mysqli_connect_error()) {
     echo "MySQL fout: " . mysqli_connect_error();

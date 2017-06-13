@@ -67,6 +67,18 @@
             </div>
 
           </div>
+            <?php
+
+                require_once ('config.php');
+
+                $dbc = mysqli_connect(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_NAME);
+                if (mysqli_connect_error()) {
+                    echo "MySQL fout: " . mysqli_connect_error();
+                }
+            $querry = "SELECT * FROM mb_articles";
+            $result = mysqli_query($dbc,$querry) or die ('Error querrying database');
+
+            ?>
           <div class="col-md-9">
             <!-- Website Overview -->
             <div class="panel panel-default">
@@ -86,26 +98,18 @@
                         <th>Created</th>
                         <th></th>
                       </tr>
-                      <tr>
-                        <td>Blog Post 1</td>
-                        <td>Dec 12, 2016</td>
-                        <td><a class="btn btn-default" >Edit</a> <a class="btn btn-danger" href="#">Delete</a></td>
-                      </tr>
-                      <tr>
-                        <td>Blog Post 2</td>
-                        <td>Dec 13, 2016</td>
-                        <td><a class="btn btn-default" >Edit</a> <a class="btn btn-danger" href="#">Delete</a></td>
-                      </tr>
-                      <tr>
-                        <td>Blog Post 3</td>
-                        <td>Dec 13, 2016</td>
-                        <td><a class="btn btn-default" >Edit</a> <a class="btn btn-danger" href="#">Delete</a></td>
-                      </tr>
-                      <tr>
-                        <td>Blog Post 4</td>
-                        <td>Dec 14, 2016</td>
-                        <td><a class="btn btn-default" >Edit</a> <a class="btn btn-danger" href="#">Delete</a></td>
-                      </tr>
+                    <?php
+
+                    while($row = mysqli_fetch_array($result)) {
+                        echo "<tr>";
+                        echo '<td>' . $row['title'] . '</td>';
+                        echo '<td>' . $row['date'] . '</td>';
+                        echo '<input type="hidden" name="id" value="'. $row['id'] . '" />';
+                        echo '<td><a class="btn btn-default" >Edit</a> <a class="btn btn-danger" href="proccess-deletepost.php?id='. $row['id'] . '">Delete</a></td>';
+                        echo "</tr>";
+                    }
+
+                    ?>
                     </table>
               </div>
               </div>
@@ -115,10 +119,6 @@
       </div>
     </section>
 
-  <script>
-     CKEDITOR.replace( 'editor1' );
- </script>
-
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
@@ -126,9 +126,5 @@
     <script src="js/bootstrap.min.js"></script>
 
 
-    <?php
-
-    
-     ?>
   </body>
 </html>
