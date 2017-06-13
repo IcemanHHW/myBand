@@ -14,19 +14,24 @@ $templateParser->display('header.tpl');
 // menu
 $templateParser->display('menu.tpl');
 
-$action = isset($_GET['page']) ? $_GET['page'] : 'home';
+$url = isset($_GET['url']) ? $_GET['url'] : 'home';
 
-switch ($action) {
+switch ($url) {
     case 'home':
-        require_once 'model/getarticles.php';
-        require_once 'model/getsidebar.php';
-        $templateParser->assign('result_list',$result_list);
+        include 'model/getpagination.php';
+        $templateParser->assign('page',$page);
+        include 'model/getarticles.php';
+        include 'model/getsidebar.php';
+        $templateParser->assign('number_of_pages',$number_of_pages);
+        $templateParser->assign('result',$result);
         $templateParser->assign('result_list2',$result_list2);
         $templateParser->display('home.tpl');
         break;
     case 'agenda':
+        require_once 'model/getagenda.php';
         require_once 'model/getsidebar.php';
         $templateParser->assign('result_list2',$result_list2);
+        $templateParser->assign('result_list3',$result_list3);
         $templateParser->display('agenda.tpl');
         break;
     case 'contact':
