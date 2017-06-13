@@ -6,6 +6,7 @@
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width">
 	<link href="styles/style.css" rel="stylesheet" />
+	<link rel="alternate" href="/feed/" title="My RSS feed" type="application/rss+xml" />
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 

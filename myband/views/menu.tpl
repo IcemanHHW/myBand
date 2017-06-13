@@ -1,14 +1,14 @@
 <nav>
       <ul>
-        <li><a href="?page=home">Home</a></li>
-        <li><a href="?page=agenda">Agenda</a></li>
-        <li><a href="?page=contact">Contact</a></li>
-        <li><a href="?page=legal">Legal</a></li>
+        <li><a href="?url=home">Home</a></li>
+        <li><a href="?url=agenda">Agenda</a></li>
+        <li><a href="?url=contact">Contact</a></li>
+        <li><a href="?url=legal">Legal</a></li>
         <li>
-          <form method="post" action="">
-            <input id="searchterm" type="text" name="searchterm" placeholder="searchterm" />
-            <input id="submit" type="submit" name="submit_search" value="search" />
-          </form>
+            <form action="views/search.php" method="POST">
+                <input type="text" name="searchterm" id="searchterm" placeholder="searchterm" />
+                <input type="submit" value="Search" name="submit_search" id="submit" />
+            </form>
         </li>
       </ul>
     </nav>
