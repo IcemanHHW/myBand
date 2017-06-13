@@ -1,18 +1,10 @@
 <?php
 
-$result_list = array();
+$query = "SELECT * 
+          FROM mb_articles
+          ORDER BY id DESC
+          LIMIT $limit_starting_number,$results_per_page";
 
 
-$sorttype = 'date';
-$order = 'DESC';
+$result = mysqli_query($mysqli,$query) or die ('Error querying');
 
-$sql = "SELECT * FROM mb_articles
-        ORDER BY $sorttype $order";
-
-$result = $mysqli->query($sql);
-
-while($item = $result->fetch_assoc()) {
-
-    $result_list[] = $item;
-
-}
