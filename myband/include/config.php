@@ -1,10 +1,9 @@
 <?php
-$title = 'MyBand';
-$footer = 'This is a test footer';
+$title = 'MY Band';
 
 define('DB_HOST','localhost');
-define('DB_NAME','myband');
-define('DB_USERNAME','root');
-define('DB_PASSWORD','');
+define('DB_NAME','kampmeijer_nl_school');
+define('DB_USERNAME','kampm_nl_school');
+define('DB_PASSWORD','96LbAXakhX3v');
 
 ?>
