@@ -1,5 +1,5 @@
 <div id="wrapper">
-    <div id="content">
+    <div id="articles">
         {foreach from=$result_list3 item=agenda}
             <article>
                 <p class="thick">Date: {$agenda.date}</p>

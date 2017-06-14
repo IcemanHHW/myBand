@@ -8,22 +8,8 @@
 <body>
 <header>
     <h1 id="headertekst">MY Band</h1>
-    <img id="headerimage" src="../img/logo.png" alt="logo" />
+    <a href="http://ma.kampmeijer.nl/myband/"><img id="headerimage" src="../img/logo.png" alt="logo" /></a>
 </header>
-<nav>
-    <ul>
-        <li><a href="?page=home">Home</a></li>
-        <li><a href="?page=agenda">Agenda</a></li>
-        <li><a href="?page=contact">Contact</a></li>
-        <li><a href="?page=legal">Legal</a></li>
-        <li>
-            <form action="search.php" method="GET">
-                <input type="text" name="query" id="searchterm" placeholder="searchterm" />
-                <input type="submit" value="Search" id="submit" />
-            </form>
-        </li>
-    </ul>
-</nav>
 
 <div id="wrapper">
     <div id="content">
