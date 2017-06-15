@@ -29,10 +29,10 @@ het is ook belangrijk dat er gekeken wordt naar de keywords die op de site gezet
 
 #### Welke keywords en beschrijving komen er op de site?
 ###### Keywords:
-myBand, MY Band, My Band, my band, My band, One Piece, OP, Theories, One Piece Theories, One Piece Video's, anime, manga, OP anime, OP manga, One Piece anime, One Piece manga, discussions, One Piece, discussions, OP discussions, Goda, Oda
+MY Band,One Piece,One Piece Theories, One Piece Video's, One Piece anime, One Piece manga, One Piece, discussions, Goda, Oda
 
 ###### Beschrijving:
-On MY Band you can find pretty much everything that’s One Piece related.From news about new episodes to theories about Gold Roger's moustache
+On MY Band you can find pretty much everything that’s One Piece related.
 
 
 ## Security
