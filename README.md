@@ -58,7 +58,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 
  [usertest_youtube]: <https://youtu.be/17WoOqgXsRM?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH>
  [test]: <https://docs.google.com/spreadsheets/>
- [op]: <https://docs.google.com/spreadsheets/>
+ [op]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel3/Optimalisatieplan.md>
  [mystat]: <https://docs.google.com/spreadsheets/>
 
 
