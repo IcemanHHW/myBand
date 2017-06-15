@@ -53,7 +53,7 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 | ------ |  ------ | ------ |
 | B1-K2-W2 GebruikersTestrapport | TODO |  [test] |
 | usertest video | TODO |[usertest_youtube] |
-| B1-K3-W1 Optimalisatieplan | TODO |  [op] |
+| B1-K3-W1 Optimalisatieplan | DONE |  [op] |
 | Statistieken | TODO |  [mystat]|
 
  [usertest_youtube]: <https://youtu.be/17WoOqgXsRM?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH>
