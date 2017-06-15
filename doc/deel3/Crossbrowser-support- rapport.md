@@ -1,5 +1,7 @@
 # Crossbrowser-support- rapport
 
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 MY Band is crossbrowser getest met de meest gebruikte browsers (Chrome, Safari en Firefox).
 Er zijn meerdere versies van de browsers getest en op de meeste versies werkt alles van MY Band goed. Er zijn een paar oudere versies van Firefox waarbij bepaalde onderdelen niet helemaal lekker werken of erg lang duren. Daarmee worden dan echt de oude versies bedoelt, bijvoorbeeld versie 7.0.1.
 
