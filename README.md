@@ -51,13 +51,13 @@ De website is enigszins te vergelijken met <http://www.onepiecepodcast.com/> of 
 #### Milestones Fase 3
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| B1-K2-W2 GebruikersTestrapport | TODO |  [test] |
-| usertest video | TODO |[usertest_youtube] |
+| B1-K2-W2 GebruikersTestrapport | DONE |  [test] |
+| usertest video | DONE |[usertest_youtube] |
 | B1-K3-W1 Optimalisatieplan | DONE |  [op] |
 | Statistieken | TODO |  [mystat]|
 
- [usertest_youtube]: <https://youtu.be/17WoOqgXsRM?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH>
- [test]: <https://docs.google.com/spreadsheets/>
+ [usertest_youtube]: https://www.youtube.com/watch?v=uBEJHcYmRX8>
+ [test]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel3/test.md>
  [op]: <https://github.com/IcemanHHW/myBand/blob/master/doc/deel3/Optimalisatieplan.md>
  [mystat]: <https://docs.google.com/spreadsheets/>
 
